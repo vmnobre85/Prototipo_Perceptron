@@ -1,5 +1,5 @@
 # Prototipo_Adaline
-Realização de análise de dados utilizando técnica de rede neurais em Python. (ADALINE)
+Realização de análise de dados utilizando técnica de rede neurais em Python. (PERCEPTRON)
 
 ## PROCESSO DE DESTILAÇÃO
 Pela análise de um processo de destilação fracionada de petróleo observou-se que determinado óleo poderia ser
